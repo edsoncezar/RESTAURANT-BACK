@@ -22,6 +22,8 @@ Focusing on coding, I chose to use the Java language and the Spring Boot framewo
 
 Spring itself already has examples of how to structure your project and even a launcher which you can use at any time, if you want to generate a new project you can start with a pattern adopted by it, if you want to change that pattern you can also do it this, I particularly for this model followed a standard and example of coding already used by them, hence my option.
 
+https://start.spring.io/
+
 
 So let's imagine a service for restaurants, what a restaurant needs, it has its menu, it needs to place an order, it then needs to register its customers to have its control, imagine if it is a chain of restaurants then it needs the registration of its stores, so just to exemplify I divided it into four micro-services for these purposes:
 
