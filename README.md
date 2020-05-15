@@ -17,6 +17,9 @@ The most recently added item in the queue must wait at the end of the collection
 In essence this is not necessary, I could save it directly in a database, doing this I will have to access this queue by other means and then save them in the database, I already have a complete example of how to do this, the architecture must be designed according to the needs of each individual, several situations can be found and reasons for that, there is no what we can call universal architecture.
 
 
+https://www.springboottutorial.com/spring-boot-projects-with-code-examples
+
+
 Focusing on coding, I chose to use the Java language and the Spring Boot framework, the version of Java I chose was 8 and I use the Ubuntu 20.04 LTS operating system, and used maven.
 
 
