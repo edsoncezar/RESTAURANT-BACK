@@ -56,13 +56,13 @@ sudo apt -y install rabbitmq-server
 In these two links you can go deeper and look for more details about it:
 
 
-
 https://www.rabbitmq.com/install-debian.html#apt
-
 
 
 https://computingforgeeks.com/how-to-install-latest-rabbitmq-server-on-ubuntu-18-04-lts/
 
+
+https://spring.io/guides/gs/messaging-rabbitmq/
 
 
 Here I tried to abstract myself from discussions and things like that, I chose and followed an exemplified architecture, I didn't use clean architecture and I didn't worry about details as clean architecture isn't just a MVC with an adapter?
