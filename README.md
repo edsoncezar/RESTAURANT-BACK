@@ -61,7 +61,7 @@ https://computingforgeeks.com/how-to-install-latest-rabbitmq-server-on-ubuntu-18
 
 
 
-Here I tried to abstract myself from discussions and things like that, I chose and followed an exemplified architecture, I didn't use clean architecture and I didn't worry about details as clean architecture isn't just an MVC with an adapter?
+Here I tried to abstract myself from discussions and things like that, I chose and followed an exemplified architecture, I didn't use clean architecture and I didn't worry about details as clean architecture isn't just a MVC with an adapter?
 
 
 Code and be happy, everyone wants things in their own way and sometimes you don't know why and even less if it's necessary, you can suggest, but always who will hit the hammer will not be you.
